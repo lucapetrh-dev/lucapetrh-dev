@@ -30,24 +30,15 @@
   <summary><h3>Languages</h3></summary>
             <p align="center">
         <a href="https://github.com/lucapetrh-dev/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucapetrh-dev&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
-          alt="lucapetrh-dev :: overall Top Langs " /></a>
-      </p>
-        <p align="center">
-          <a href="https://github.com/lucapetrh-dev/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucapetrh-dev&theme=gruvbox&layout=compact&hide_border=true"
-          alt="lucapetrh-dev :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucapetrh-dev&theme=gruvbox&layout=compact&hide_border=true"
-          alt="lucapetrh-dev :: Top Langs by commit" />
-          </a>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucapetrh-dev&layout=compact&theme=dark&hide_border=true"/>
         </p>
 </details>
     <details open>
   <summary><h3>Stasistic</h3></summary>
         <p align="center">
           <a href="https://github.com/lucapetrh-dev/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=lucapetrh-dev&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=lucapetrh-dev&theme=gruvbox&hide_border=true" />
+          <img src="https://github-readme-stats.vercel.app/api?username=lucapetrh-dev&show_icons=true&theme=dark&hide_border=true"/>
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucapetrh-dev&theme=dark&layout=compact&hide_border=true" />
           </a>
        </p>
      <br>
