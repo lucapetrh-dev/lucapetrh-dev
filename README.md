@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Luca</h1>
+<h1 align="center">Hi, I'm Luca <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> </h1>
 <h4 align="center">Data Science Double-Degree MSc Student @Politecnico di Milano and @UPM Madrid</h4>
 </div>
 
