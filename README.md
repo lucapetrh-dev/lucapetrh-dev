@@ -39,17 +39,6 @@
      </samp>
   </div>    
 </details>
-
-<details>
-  <summary>📈 Latest Activity Graph</summary>
-  <samp>
-  <br/>
-  <h2 align="center"> My contributions </h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="Luca's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=lucapetrh-dev&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
-<br/>
-  </samp>
-  </details>
   
   <details>
   <summary>📲 Contact me</summary>
