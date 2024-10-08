@@ -28,7 +28,7 @@
         </p>
 </details>
     <details open>
-  <summary><h3>Stasistic</h3></summary>
+  <summary><h3>Statistics</h3></summary>
         <p align="center">
           <a href="https://github.com/lucapetrh-dev/">
           <img src="https://github-readme-stats.vercel.app/api?username=lucapetrh-dev&show_icons=true&theme=dark&hide_border=true"/>
