@@ -8,7 +8,7 @@
   <summary>🔭 About me </summary>
 <div>
 <samp>
-  </p>⚡ Passionate about everything technology and data related: I'm profoundly interested in machine learning, artificial neural networks and deep learning techniques.
+  </p>⚡ Passionate about everything technology and data related: I'm profoundly interested in machine learning, artificial intelligence, LLMs and GenAI techniques.
  </p>
  </samp>
 </div>
@@ -49,9 +49,6 @@
       <br/>
       <a href="https://www.linkedin.com/in/lucapetracca/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="Luca" height="30"/></a>
-      <a href="https://instagram.com/lucapetrh" target="blank"><img align="center"
-         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
          alt="Luca" height="30"/></a>
       <br>
     </p>
