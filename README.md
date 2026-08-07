@@ -1,7 +1,6 @@
 <div align="center">
 <h1 align="center">Hi, I'm Luca <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> </h1>
-<h3 align="center">Data Science Double-Degree MSc Student @Politecnico di Milano and @UPM Madrid</h3>
-<h4 align="center">Machine learning, Artificial intelligence, LLMs and GenAI</h4>
+<h3 align="center">Machine learning, Artificial intelligence, LLMs and GenAI</h3>
 </div>
 
 <details> 
