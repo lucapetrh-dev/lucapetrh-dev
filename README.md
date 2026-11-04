@@ -54,7 +54,7 @@ A conversational interface for finding datasets and time series in the ECB Data 
 
 ## Get in touch
 
-For a conversation about data tools, financial software or self-hosted products, [find me on LinkedIn](https://www.linkedin.com/in/lucapetracca/).
+To get in touch, [find me on LinkedIn](https://www.linkedin.com/in/lucapetracca/).
 
 ## Contributions
 
