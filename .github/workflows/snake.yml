@@ -1,0 +1,34 @@
+name: Refresh contribution snake
+
+on:
+  schedule:
+    - cron: "17 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contribution-snake
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Generate light and dark animations
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg?color_snake=#3c7770&color_dots=#ebedf0,#c7d1d0,#a3b7b3,#7c9e97,#507d73
+            dist/snake-dark.svg?palette=github-dark&color_snake=#b2cac5&color_dots=#161b22,#293936,#405953,#5e7b73,#8eaaa6
+      - name: Publish generated images
+        uses: peaceiris/actions-gh-pages@84c30a85c19949d7eee79c4ff27748b70285e453
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist
+          keep_files: true
+          commit_message: "docs: refresh contribution snake"
