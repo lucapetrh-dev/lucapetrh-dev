@@ -17,7 +17,7 @@ AI Engineer with 3 years of experience designing and deploying production AI sys
 LLM architectures that encompass data retrieval, portfolio management, and risk and performance analysis, with end-to-end
 ownership from architecture to deployment.
 
-[Explore my work](#selected-work) · [Email](mailto:lucapetrh@gmail.com) · [LinkedIn](https://www.linkedin.com/in/lucapetracca/) · [CV (PDF)](https://github.com/lucapetrh-dev/lucapetrh-dev/blob/main/docs/Luca-Petracca-CV-2026.pdf)
+[Explore my work](#selected-work) · [Email](mailto:lucapetrh@gmail.com) · [LinkedIn](https://www.linkedin.com/in/lucapetracca/) · [CV](https://github.com/lucapetrh-dev/lucapetrh-dev/blob/main/docs/Luca-Petracca-CV-2026.pdf)
 
 <a href="assets/activity-dark.svg?v=30f22c7a#gh-dark-mode-only">
 <picture>
