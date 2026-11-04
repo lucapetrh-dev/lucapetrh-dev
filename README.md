@@ -2,7 +2,7 @@
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/intro-dark-mobile.svg">
   <source media="(max-width: 600px)" srcset="assets/intro-light-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/intro-dark.svg">
-  <img src="assets/intro-light.svg" width="100%" alt="Luca Petracca. Financial data and self-hosted software. Wallet, Jobs and OpenNote.">
+  <img src="assets/intro-light.svg" width="100%" alt="Luca Petracca: AI Engineer in finance. Skills: Python, TypeScript, SQL, LangGraph, RAG and AWS. Contact: lucapetrh@gmail.com, LinkedIn and GitHub.">
 </picture>
 
 # About me.
@@ -11,7 +11,7 @@ AI Engineer with 3 years of experience designing and deploying production AI sys
 LLM architectures that encompass data retrieval, portfolio management, and risk and performance analysis, with end-to-end
 ownership from architecture to deployment.
 
-[Explore my work](#selected-work) · [LinkedIn](https://www.linkedin.com/in/lucapetracca/) · [CV (PDF)](https://github.com/lucapetrh-dev/lucapetrh-dev/blob/main/docs/Luca-Petracca-CV-2026.pdf)
+[Explore my work](#selected-work) · [Email](mailto:lucapetrh@gmail.com) · [LinkedIn](https://www.linkedin.com/in/lucapetracca/) · [CV (PDF)](https://github.com/lucapetrh-dev/lucapetrh-dev/blob/main/docs/Luca-Petracca-CV-2026.pdf)
 
 <picture>
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/activity-dark-mobile.svg">
@@ -70,3 +70,12 @@ A personal learning workflow built around guided questions and visual explanatio
 
 For a conversation about data tools, financial software or self-hosted products, [find me on LinkedIn](https://www.linkedin.com/in/lucapetracca/).
 
+## Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucapetrh-dev/lucapetrh-dev/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucapetrh-dev/lucapetrh-dev/output/snake.svg">
+  <img alt="Animated snake eating my GitHub contribution calendar" src="https://raw.githubusercontent.com/lucapetrh-dev/lucapetrh-dev/output/snake.svg" width="100%">
+</picture>
+
+<sub>Generated daily from my GitHub contribution calendar.</sub>
