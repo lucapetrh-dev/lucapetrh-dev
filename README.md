@@ -32,25 +32,17 @@ ownership from architecture to deployment.
 </picture>
 </a>
 
-<sub>GitHub contribution calendar · Snapshot: 4 November 2026 · Contributions include more than commits.</sub>
-
 ## Selected work
 
 A selection of recent builds, ongoing research and customized open-source projects. Private repositories are described here without exposing their source.
 
 ### Wallet
 
-Personal finance
-
 A self-hosted finance workspace for accounts, transactions and investments. Includes provider integrations, transaction categorization and a mobile-friendly interface.
-
-**Focus:** Ruby on Rails, PostgreSQL, Redis, Docker.
 
 ### Jobs
 
 My customized JobSync installation brings applications, resumes, contacts and interview preparation into one workspace. I maintain the deployment and access controls for my private hosted instance.
-
-**Focus:** Self-hosting, application workflows, deployment automation.
 
 [Explore Jobs](https://github.com/lucapetrh-dev/jobsync)
 
@@ -87,4 +79,3 @@ For a conversation about data tools, financial software or self-hosted products,
 <img src="https://raw.githubusercontent.com/lucapetrh-dev/lucapetrh-dev/output/snake-dark.svg#gh-dark-mode-only" width="100%" alt="Animated snake eating my GitHub contribution calendar">
 <img src="https://raw.githubusercontent.com/lucapetrh-dev/lucapetrh-dev/output/snake.svg#gh-light-mode-only" width="100%" alt="Animated snake eating my GitHub contribution calendar">
 
-<sub>Generated daily from my GitHub contribution calendar.</sub>
