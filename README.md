@@ -13,8 +13,6 @@ ownership from architecture to deployment.
 
 ## Activity at a glance
 
-6 August – 3 November 2026
-
 <picture>
   <source media="(max-width: 600px)" srcset="assets/profile-activity-charcoal-mobile.svg">
   <img src="assets/profile-activity-charcoal.svg" width="100%" alt="152 contributions, 24 active days, longest run 4 days and peak day 22 contributions. Dated 90-day snapshot.">
