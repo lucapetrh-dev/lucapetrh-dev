@@ -1,11 +1,15 @@
+<a href="assets/intro-dark.svg?v=30f22c7a#gh-dark-mode-only">
 <picture>
   <source media="(max-width: 600px)" srcset="assets/intro-dark-mobile.svg?v=30f22c7a">
   <img src="assets/intro-dark.svg?v=30f22c7a#gh-dark-mode-only" width="100%" alt="Luca Petracca: AI Engineer in finance. Skills: Python, TypeScript, SQL, LangGraph, RAG and AWS. Contact: lucapetrh@gmail.com, LinkedIn and GitHub.">
 </picture>
+</a>
+<a href="assets/intro-light.svg?v=30f22c7a#gh-light-mode-only">
 <picture>
   <source media="(max-width: 600px)" srcset="assets/intro-light-mobile.svg?v=30f22c7a">
   <img src="assets/intro-light.svg?v=30f22c7a#gh-light-mode-only" width="100%" alt="Luca Petracca: AI Engineer in finance. Skills: Python, TypeScript, SQL, LangGraph, RAG and AWS. Contact: lucapetrh@gmail.com, LinkedIn and GitHub.">
 </picture>
+</a>
 
 # About me.
 
@@ -15,14 +19,18 @@ ownership from architecture to deployment.
 
 [Explore my work](#selected-work) · [Email](mailto:lucapetrh@gmail.com) · [LinkedIn](https://www.linkedin.com/in/lucapetracca/) · [CV (PDF)](https://github.com/lucapetrh-dev/lucapetrh-dev/blob/main/docs/Luca-Petracca-CV-2026.pdf)
 
+<a href="assets/activity-dark.svg?v=30f22c7a#gh-dark-mode-only">
 <picture>
   <source media="(max-width: 600px)" srcset="assets/activity-dark-mobile.svg?v=30f22c7a">
   <img src="assets/activity-dark.svg?v=30f22c7a#gh-dark-mode-only" width="100%" alt="GitHub contributions, 6 August to 3 November 2026: 152 contributions, 24 active days, longest run 4 days, peak day 22 contributions.">
 </picture>
+</a>
+<a href="assets/activity-light.svg?v=30f22c7a#gh-light-mode-only">
 <picture>
   <source media="(max-width: 600px)" srcset="assets/activity-light-mobile.svg?v=30f22c7a">
   <img src="assets/activity-light.svg?v=30f22c7a#gh-light-mode-only" width="100%" alt="GitHub contributions, 6 August to 3 November 2026: 152 contributions, 24 active days, longest run 4 days, peak day 22 contributions.">
 </picture>
+</a>
 
 <sub>GitHub contribution calendar · Snapshot: 4 November 2026 · Contributions include more than commits.</sub>
 
