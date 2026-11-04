@@ -1,4 +1,9 @@
-![Luca Petracca](assets/profile-header.png)
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/intro-dark-mobile.svg">
+  <source media="(max-width: 600px)" srcset="assets/intro-light-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/intro-dark.svg">
+  <img src="assets/intro-light.svg" width="100%" alt="Luca Petracca. Financial data and self-hosted software. Wallet, Jobs and OpenNote.">
+</picture>
 
 # About me.
 
@@ -7,6 +12,15 @@ LLM architectures that encompass data retrieval, portfolio management, and risk 
 ownership from architecture to deployment.
 
 [Explore my work](#selected-work) · [LinkedIn](https://www.linkedin.com/in/lucapetracca/)
+
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/activity-dark-mobile.svg">
+  <source media="(max-width: 600px)" srcset="assets/activity-light-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
+  <img src="assets/activity-light.svg" width="100%" alt="GitHub contributions, 6 August to 3 November 2026: 152 contributions, 24 active days, longest run 4 days, peak day 22 contributions.">
+</picture>
+
+<sub>GitHub contribution calendar · Snapshot: 4 November 2026 · Contributions include more than commits.</sub>
 
 ## Selected work
 
@@ -55,3 +69,4 @@ A personal learning workflow built around guided questions and visual explanatio
 ## Get in touch
 
 For a conversation about data tools, financial software or self-hosted products, [find me on LinkedIn](https://www.linkedin.com/in/lucapetracca/).
+
