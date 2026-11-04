@@ -1,13 +1,13 @@
-<a href="assets/intro-dark.svg?v=30f22c7a#gh-dark-mode-only">
+<a href="assets/terminal-skills-contact-dark.svg#gh-dark-mode-only">
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/intro-dark-mobile.svg?v=30f22c7a">
-  <img src="assets/intro-dark.svg?v=30f22c7a#gh-dark-mode-only" width="100%" alt="Luca Petracca: AI Engineer in finance. Skills: Python, TypeScript, SQL, LangGraph, RAG and AWS. Contact: lucapetrh@gmail.com, LinkedIn and GitHub.">
+  <source media="(max-width: 600px)" srcset="assets/terminal-skills-contact-dark-mobile.svg">
+  <img src="assets/terminal-skills-contact-dark.svg#gh-dark-mode-only" width="100%" alt="Luca Petracca: AI Engineer in finance. Skills: Python, TypeScript, SQL, LangGraph, RAG and AWS. Contact: lucapetrh@gmail.com, LinkedIn and GitHub.">
 </picture>
 </a>
-<a href="assets/intro-light.svg?v=30f22c7a#gh-light-mode-only">
+<a href="assets/terminal-skills-contact-light.svg#gh-light-mode-only">
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/intro-light-mobile.svg?v=30f22c7a">
-  <img src="assets/intro-light.svg?v=30f22c7a#gh-light-mode-only" width="100%" alt="Luca Petracca: AI Engineer in finance. Skills: Python, TypeScript, SQL, LangGraph, RAG and AWS. Contact: lucapetrh@gmail.com, LinkedIn and GitHub.">
+  <source media="(max-width: 600px)" srcset="assets/terminal-skills-contact-light-mobile.svg">
+  <img src="assets/terminal-skills-contact-light.svg#gh-light-mode-only" width="100%" alt="Luca Petracca: AI Engineer in finance. Skills: Python, TypeScript, SQL, LangGraph, RAG and AWS. Contact: lucapetrh@gmail.com, LinkedIn and GitHub.">
 </picture>
 </a>
 
