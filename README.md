@@ -44,11 +44,11 @@ A personal learning workflow built around guided questions and visual explanatio
 
 [Explore Learn](https://github.com/lucapetrh-dev/learn)
 
-### Financial forecasting
+### Financial Forecasting
 
 Master's Thesis on Transformers for Financial Forecasting: a cryptocurrency return-forecasting pipeline with leakage-aware evaluation, sentiment comparisons and transformer benchmarks. Reproducible experiments and comparable baselines are the focus.
 
-[Explore Financial forecasting](https://github.com/lucapetrh-dev/Transformers-Financial-Time-Series-Forecasting)
+[Explore Master Thesis](https://github.com/lucapetrh-dev/Transformers-Financial-Time-Series-Forecasting)
 
 ### ECB Data Portal Chatbot
 
