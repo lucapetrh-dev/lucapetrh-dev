@@ -1,8 +1,10 @@
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/intro-dark-mobile.svg?v=30f22c7a">
+  <source media="(max-width: 600px)" srcset="assets/intro-dark-mobile.svg?v=30f22c7a">
+  <img src="assets/intro-dark.svg?v=30f22c7a#gh-dark-mode-only" width="100%" alt="Luca Petracca: AI Engineer in finance. Skills: Python, TypeScript, SQL, LangGraph, RAG and AWS. Contact: lucapetrh@gmail.com, LinkedIn and GitHub.">
+</picture>
+<picture>
   <source media="(max-width: 600px)" srcset="assets/intro-light-mobile.svg?v=30f22c7a">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/intro-dark.svg?v=30f22c7a">
-  <img src="assets/intro-light.svg?v=30f22c7a" width="100%" alt="Luca Petracca: AI Engineer in finance. Skills: Python, TypeScript, SQL, LangGraph, RAG and AWS. Contact: lucapetrh@gmail.com, LinkedIn and GitHub.">
+  <img src="assets/intro-light.svg?v=30f22c7a#gh-light-mode-only" width="100%" alt="Luca Petracca: AI Engineer in finance. Skills: Python, TypeScript, SQL, LangGraph, RAG and AWS. Contact: lucapetrh@gmail.com, LinkedIn and GitHub.">
 </picture>
 
 # About me.
@@ -14,10 +16,12 @@ ownership from architecture to deployment.
 [Explore my work](#selected-work) · [Email](mailto:lucapetrh@gmail.com) · [LinkedIn](https://www.linkedin.com/in/lucapetracca/) · [CV (PDF)](https://github.com/lucapetrh-dev/lucapetrh-dev/blob/main/docs/Luca-Petracca-CV-2026.pdf)
 
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/activity-dark-mobile.svg?v=30f22c7a">
+  <source media="(max-width: 600px)" srcset="assets/activity-dark-mobile.svg?v=30f22c7a">
+  <img src="assets/activity-dark.svg?v=30f22c7a#gh-dark-mode-only" width="100%" alt="GitHub contributions, 6 August to 3 November 2026: 152 contributions, 24 active days, longest run 4 days, peak day 22 contributions.">
+</picture>
+<picture>
   <source media="(max-width: 600px)" srcset="assets/activity-light-mobile.svg?v=30f22c7a">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg?v=30f22c7a">
-  <img src="assets/activity-light.svg?v=30f22c7a" width="100%" alt="GitHub contributions, 6 August to 3 November 2026: 152 contributions, 24 active days, longest run 4 days, peak day 22 contributions.">
+  <img src="assets/activity-light.svg?v=30f22c7a#gh-light-mode-only" width="100%" alt="GitHub contributions, 6 August to 3 November 2026: 152 contributions, 24 active days, longest run 4 days, peak day 22 contributions.">
 </picture>
 
 <sub>GitHub contribution calendar · Snapshot: 4 November 2026 · Contributions include more than commits.</sub>
@@ -72,10 +76,7 @@ For a conversation about data tools, financial software or self-hosted products,
 
 ## Contributions
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucapetrh-dev/lucapetrh-dev/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucapetrh-dev/lucapetrh-dev/output/snake.svg">
-  <img alt="Animated snake eating my GitHub contribution calendar" src="https://raw.githubusercontent.com/lucapetrh-dev/lucapetrh-dev/output/snake.svg" width="100%">
-</picture>
+<img src="https://raw.githubusercontent.com/lucapetrh-dev/lucapetrh-dev/output/snake-dark.svg#gh-dark-mode-only" width="100%" alt="Animated snake eating my GitHub contribution calendar">
+<img src="https://raw.githubusercontent.com/lucapetrh-dev/lucapetrh-dev/output/snake.svg#gh-light-mode-only" width="100%" alt="Animated snake eating my GitHub contribution calendar">
 
 <sub>Generated daily from my GitHub contribution calendar.</sub>
