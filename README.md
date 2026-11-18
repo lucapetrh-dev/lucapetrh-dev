@@ -5,7 +5,7 @@
 
 # About me.
 
-AI Engineer with 3 years of experience designing and deploying production AI systems in finance. Specialized in multi-agent
+AI Engineer with 3 years of experience designing and deploying production AI systems. Specialized in multi-agent
 LLM architectures that encompass data retrieval, portfolio management, and risk and performance analysis, with end-to-end
 ownership from architecture to deployment.
 
@@ -18,43 +18,67 @@ ownership from architecture to deployment.
   <img src="assets/profile-activity-charcoal.svg" width="100%" alt="152 contributions, 24 active days, longest run 4 days and peak day 22 contributions. Dated 90-day snapshot.">
 </picture>
 
-## Selected work
+## Selected Work
 
-A selection of recent builds, ongoing research and customized open-source projects. Private repositories are described here without exposing their source.
+A selection of personal projects, ongoing research, and customized open-source tools. Private repositories are described without exposing their source code.
 
-### Wallet
+### 🛠️ Personal Projects
 
-A self-hosted finance workspace for accounts, transactions and investments. Includes provider integrations, transaction categorization and a mobile-friendly interface.
+#### Wallet
+A self-hosted finance workspace for managing accounts, transactions, and investments.
 
-### OpenNote
+- **Finance Management:** Track accounts, transactions, and investment portfolios.
+- **Integrations:** Connect financial providers and categorize transactions.
+- **Interface:** Mobile-friendly dashboard for everyday financial management.
 
-A Windows workspace for notes, projects, meeting recordings and dictation. Notes stay on the device; transcription and note processing use a configured AWS account.
+#### OpenNote
+A Windows-based workspace for notes, projects, meeting recordings, and dictation.
 
-### Jobs
+- **Organization:** Manage notes and projects in one place.
+- **Audio & Transcription:** Record meetings and transcribe spoken content.
+- **Privacy:** Notes stay on-device, while transcription and processing use a configured AWS account.
 
-My customized JobSync installation brings applications, resumes, contacts and interview preparation into one workspace. I maintain the deployment and access controls for my private hosted instance.
+### 💻 Open-Source & Customized Projects
 
-[Explore Jobs](https://github.com/lucapetrh-dev/jobsync)
+#### [Jobs](https://github.com/lucapetrh-dev/jobsync)
+A customized JobSync installation that centralizes the job application process.
 
-### Learn
+- **Application Tracking:** Manage applications, resumes, and contacts.
+- **Interview Preparation:** Organize preparation materials and resources.
+- **Self-Hosting:** Maintain a private deployment with custom access controls.
 
-A personal learning workflow built around guided questions and visual explanations, with an optional renderer that turns Mermaid and SVG diagrams into PNGs.
+#### [Learn](https://github.com/lucapetrh-dev/learn)
+A personal learning workflow built around guided questions and visual explanations.
 
-[Explore Learn](https://github.com/lucapetrh-dev/learn)
+- **Guided Learning:** Explore concepts through structured questions.
+- **Visual Explanations:** Support learning with diagrams.
+- **Diagram Rendering:** Optionally convert Mermaid and SVG diagrams into PNG images.
 
-### Financial Forecasting
+### 📊 Research & Data Projects
 
-Master's Thesis on Transformers for Financial Forecasting: a cryptocurrency return-forecasting pipeline with leakage-aware evaluation, sentiment comparisons and transformer benchmarks. Reproducible experiments and comparable baselines are the focus.
+#### [Financial Forecasting](https://github.com/lucapetrh-dev/Transformers-Financial-Time-Series-Forecasting)
+Master's thesis on **Transformers for Financial Time Series Forecasting**, focused on cryptocurrency return prediction.
 
-[Explore Master Thesis](https://github.com/lucapetrh-dev/Transformers-Financial-Time-Series-Forecasting)
+- **Forecasting:** Develop and benchmark transformer-based models.
+- **Evaluation:** Apply leakage-aware evaluation methodologies.
+- **Sentiment Analysis:** Compare sentiment-based signals with forecasting approaches.
+- **Reproducibility:** Build reproducible experiments and comparable baselines.
 
-### ECB Data Portal Chatbot
+#### ECB Data Portal Chatbot
+A conversational interface for exploring economic datasets and time series from the European Central Bank.
 
-A conversational interface for finding datasets and time series in the ECB Data Portal. It combines natural-language queries, parallel retrieval, SQL-based value lookup, dynamic charts and tables generation.
+- **Natural-Language Search:** Find relevant datasets using conversational queries.
+- **Data Retrieval:** Combine parallel retrieval with SQL-based value lookups.
+- **Visualization:** Dynamically generate charts and tables.
+- **Exploration:** Simplify access to economic and financial time series.
 
-## Get in touch
+---
 
-To get in touch, [find me on LinkedIn](https://www.linkedin.com/in/lucapetracca/).
+## Get in Touch
+
+Interested in connecting or discussing a project?
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/lucapetracca/)
 
 ## Contributions
 
